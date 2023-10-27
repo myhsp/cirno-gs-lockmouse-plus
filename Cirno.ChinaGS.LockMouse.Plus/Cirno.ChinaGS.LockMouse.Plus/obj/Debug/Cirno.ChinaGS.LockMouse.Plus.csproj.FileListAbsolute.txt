@@ -1,0 +1,17 @@
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\Cirno.ChinaGS.LockMouse.Plus.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\Cirno.ChinaGS.LockMouse.Plus.pdb
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.Persistent.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\log4net.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.Security.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.xml
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.Persistent.xml
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\log4net.xml
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\bin\Debug\GS.Unitive.Framework.Security.xml
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\obj\Debug\Cirno.ChinaGS.LockMouse.Plus.csproj.AssemblyReference.cache
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\obj\Debug\Cirno.ChinaGS.LockMouse.Plus.csproj.CoreCompileInputs.cache
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\obj\Debug\Cirno.ChinaGS.LockMouse.Plus.csproj.CopyComplete
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\obj\Debug\Cirno.ChinaGS.LockMouse.Plus.dll
+C:\Users\lzm20\source\repos\Cirno.ChinaGS.LockMouse.Plus\Cirno.ChinaGS.LockMouse.Plus\obj\Debug\Cirno.ChinaGS.LockMouse.Plus.pdb

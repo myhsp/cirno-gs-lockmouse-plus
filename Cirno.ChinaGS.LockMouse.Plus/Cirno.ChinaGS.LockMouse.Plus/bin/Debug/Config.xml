@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns="urn:Chinags-Configuration" AddonName="Cirno.ChinaGS.LockMouse.Plus">
+  <Dictionaries>
+    <Dict Name="baseConfig" Caption="配置">
+      <Key Caption="taskkill 表" Choice="" Name="taskKillList" Value="TabTip.exe;osk.exe;taskmgr.exe"/>
+      <Key Caption="隐藏窗口 表" Choice="" Name="hideWindowList" Value="progman;Shell_TrayWnd;Button"/>
+    </Dict>
+  </Dictionaries>
+</Settings>
